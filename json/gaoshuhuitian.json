@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","totalFeatures":1,"features":[{"type":"Feature","id":"gaoshuhuitian.1","geometry":{"type":"MultiPolygon","coordinates":[[[[120.6,22.8],[120.6,22.8],[120.6,22.8],[120.6,22.8],[120.6,22.8]]]]},"geometry_name":"geom","properties":{"featuretid":"t11"}}],"crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:EPSG::4326"}}}
